@@ -1,16 +1,14 @@
-## Hi there 👋
+## Pierre ZINS — Cybersecurity Technician
 
-<!--
-**104493/104493** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔴 Pentest · Offensive Security · OSINT
+🏆 Top 2% TryHackMe worldwide
+🪖 CTF ORION BELLATRIX — COMCYBER (mars 2026)
+📍 Grand Est, France
 
-Here are some ideas to get you started:
+### Projets
+- **PowerDuck** — USB attack simulation (pentest / social engineering)
+- **Secure DB Connection** — Encrypted database authentication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Certifications en cours
+- eJPT — eLearnSecurity
+- OSCP — Objectif 2026
