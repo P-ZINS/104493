@@ -7,5 +7,6 @@
 
 ### Projets
 - **PowerDuck** — USB attack simulation (pentest / social engineering)
+- **KaliPinePhone** — Kali Linux ARM64 dual boot on PinePhone Pro
 - **Secure DB Connection** — Encrypted database authentication
 
