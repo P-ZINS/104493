@@ -1,5 +1,6 @@
 ## Pierre ZINS — Technicien en cybersécurité
 
+### Distinctions
  Pentest · Offensive Security · OSINT
  Top 2% TryHackMe worldwide
  Hackropole (ANSSI/FCSC) — en cours
